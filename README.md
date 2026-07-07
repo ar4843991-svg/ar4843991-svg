@@ -2,18 +2,19 @@
 
 ### MERN Stack Developer
 
-I am a passionate MERN Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I am continuously learning new technologies and improving my development skills.
+Hi, I'm a Frontend Developer who enjoys creating clean, responsive, and easy-to-use websites. I work with React.js, Tailwind CSS, JavaScript, HTML, and CSS to build modern user interfaces. I'm currently learning backend development and improving my skills by working on real-world projects.
 
 ## 🚀 Tech Stack
 
 * React.js
-* Node.js
-* Express.js
-* MongoDB
+* Tailwind CSS
 * JavaScript
 * HTML5
 * CSS3
 * Git & GitHub
+* Node.js (Learning)
+* Express.js (Learning)
+* MongoDB (Learning)
 
 ## 📌 Featured Projects
 
@@ -32,6 +33,6 @@ I am a passionate MERN Stack Developer who enjoys building modern, responsive, a
 
 * GitHub: https://github.com/ar4843991-svg
 * LinkedIn: *(https://www.linkedin.com/in/attaur-rahman-dev)*
-* Portfolio: *(portfoli-zlgp.vercel.app)*
+* Portfolio: *(https://portfoli-zlgp.vercel.app/)*
 
 ⭐ Thanks for visiting my profile!
