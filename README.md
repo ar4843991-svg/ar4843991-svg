@@ -61,3 +61,9 @@ React.js • JavaScript • Tailwind CSS • Weather API
 * Portfolio: *(https://portfoli-zlgp.vercel.app/)*
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ar4843991-svg&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ar4843991-svg&layout=compact&theme=tokyonight)
