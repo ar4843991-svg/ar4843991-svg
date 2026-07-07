@@ -16,6 +16,20 @@ Hi, I'm a Frontend Developer who enjoys creating clean, responsive, and easy-to-
 * Express.js (Learning)
 * MongoDB (Learning)
 
+  ## 📌 Featured Projects
+
+
+### 💼 Portfolio Website
+
+A personal portfolio website to showcase my skills, projects, and development journey.
+
+**Tech Used:**
+React.js • Tailwind CSS • JavaScript
+
+🔗 Live Demo: https://portfoli-zlgp.vercel.app/
+
+
+
 ## 📌 Featured Projects
 
 * 🛒 Grocery Webs
