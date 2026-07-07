@@ -29,6 +29,17 @@ React.js • Tailwind CSS • JavaScript
 🔗 Live Demo: https://portfoli-zlgp.vercel.app/
 
 
+🌦️ Weather App
+
+A responsive weather application that shows real-time weather information using API integration.
+
+Tech Used:
+React.js • JavaScript • Tailwind CSS • Weather API
+
+🔗 Live Demo: https://wetherwebsite.vercel.app
+
+
+
 
 ## 📌 Featured Projects
 
