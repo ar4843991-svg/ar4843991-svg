@@ -1,6 +1,6 @@
 # Hi 👋, I'm Atta Ur Rahman
 
-### MERN Stack Developer
+### Frontend Developer And MERN Stack Developer
 
 Hi, I'm a Frontend Developer who enjoys creating clean, responsive, and easy-to-use websites. I work with React.js, Tailwind CSS, JavaScript, HTML, and CSS to build modern user interfaces. I'm currently learning backend development and improving my skills by working on real-world projects.
 
