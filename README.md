@@ -6,19 +6,14 @@ Hi, I'm a Frontend Developer who enjoys creating clean, responsive, and easy-to-
 
 ## 🚀 Tech Stack
 
-* React.js
-* Tailwind CSS
-* JavaScript
-* HTML5
-* CSS3
-* Git & GitHub
+* React.js * Tailwind CSS * JavaScript
+* HTML5 * CSS3 * Git & GitHub
 * Node.js (Learning)
 * Express.js (Learning)
 * MongoDB (Learning)
 
-  ## 📌 Featured Projects
 
-
+## 📌 Featured Projects
 ### 💼 Portfolio Website
 
 A personal portfolio website to showcase my skills, projects, and development journey.
