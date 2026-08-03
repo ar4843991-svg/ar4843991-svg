@@ -29,7 +29,7 @@ Smooth Animations
 Modern Design
 
 🌐 Live Demo: https://react-ecommerce-store-y876.vercel.app
-💻 GitHub Repository: https://github.com/**YOUR_USERNAME**/**YOUR_REPOSITORY**
+
 
 Feedback is always welcome! 😊
 
