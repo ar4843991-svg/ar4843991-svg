@@ -14,6 +14,27 @@ Hi, I'm a Frontend Developer who enjoys creating clean, responsive, and easy-to-
 
 
 ## 📌 Featured Projects
+
+### React E-Commerce Store
+
+Built with React.js, Tailwind CSS, Context API, React Router, Framer Motion, and React Hot Toast.
+
+✨ Features:
+
+Responsive UI
+Product Search
+Shopping Cart
+Add/Remove Items
+Smooth Animations
+Modern Design
+
+🌐 Live Demo: https://react-ecommerce-store-y876.vercel.app
+💻 GitHub Repository: https://github.com/**YOUR_USERNAME**/**YOUR_REPOSITORY**
+
+Feedback is always welcome! 😊
+
+#ReactJS #TailwindCSS #JavaScript #Frontend #WebDevelopment #GitHub #Portfolio #Ecommerce
+
 ### 💼 Portfolio Website
 
 A personal portfolio website to showcase my skills, projects, and development journey.
